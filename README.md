@@ -11,8 +11,28 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ## Results
 
+# Smoteenn:
 
 
+![d1](https://github.com/Nimamotiee/Credit_Risk_Analysis/blob/main/smoteenn.png)
+
+# Smote:
+
+
+![d1](https://github.com/Nimamotiee/Credit_Risk_Analysis/blob/main/Smote.png)
+
+# RandomOverSample:   
+
+![d1](https://github.com/Nimamotiee/Credit_Risk_Analysis/blob/main/randomoversample.png)
+
+# ClusterCentroids:
+![d1](https://github.com/Nimamotiee/Credit_Risk_Analysis/blob/main/cluter.png)
+
+# EasyEnsembleClassifier:
+![d1](https://github.com/Nimamotiee/Credit_Risk_Analysis/blob/main/easy.png)
+
+# BalancedRandomForestClassifier:
+![d1](https://github.com/Nimamotiee/Credit_Risk_Analysis/blob/main/balancedrandom.png)
 
 ## SUMMARY
 For all models, utlizing EasyEnsembleClassifier is the most effective. Provides a highest Score for all Risk loans. The precision is low or none for all the models. In General, above the 90% of the current analysis, utlizing EasyEnsembleClassifier will perform a High-Risk loan precision as a great value for the overall analysis.
